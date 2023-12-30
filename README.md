@@ -19,7 +19,7 @@ The recommended version is the LTS version for every tool and package.
 Clone the project with git.
 
 ```bash
-https://github.com/fajarantono/starter-project.git
+git clone https://github.com/fajarantono/starter-project.git
 ```
 
 ### Install Dependencies
